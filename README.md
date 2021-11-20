@@ -1,5 +1,7 @@
 # AutomatticDataAnalysis
 
+![Tableau](https://user-images.githubusercontent.com/74743265/142716941-465bacdb-2a4a-4aa9-a01d-b21ec6dfab72.png)
+
 Data format:
 
     This jupyter notebook contains an analysis on the public blog post. There are about 1.8 million total posts in this data set. All of these data are publicly available on the web. The data has the following format:
@@ -52,7 +54,7 @@ Sample data:
     'url': 'jasontromm.wordpress.com/2009/12/31/biggest-challenge-for-the-eagles-this-week'
   }
 
-# Tableau visualization can be found [here] (https://public.tableau.com/app/profile/himani.gadve/viz/Automattic_userengagmentanalysis/Summary)
+# Tableau visualization can be found [here](https://public.tableau.com/app/profile/himani.gadve/viz/Automattic_userengagmentanalysis/Summary)
 
 # What are the median and the mean numbers of likes per post in this data sample?
 
